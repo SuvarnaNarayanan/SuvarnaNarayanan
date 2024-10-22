@@ -2,7 +2,7 @@
 
 My love for programming started when I wanted to automate some of the boring stuff in my life. 
 
-Check out some of my tools @ [alles-tools.com](https://alles-tools.com/)
+Check out some of my tools @ [alles-tools.com](https://home.alles-tools.com/)
 
 <!--
 **SuvarnaNarayanan/SuvarnaNarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
